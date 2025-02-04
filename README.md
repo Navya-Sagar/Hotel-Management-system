@@ -29,7 +29,7 @@ Explore Inn is a user-friendly web application designed to help users search for
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-  
+  https://github.com/Navya-Sagar/Hotel-Management-system
 
 3. Navigate to the project directory:
    cd Hotel-Simplified-master
